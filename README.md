@@ -1,2 +1,0 @@
-# WEX
-Bootcamp WEX
